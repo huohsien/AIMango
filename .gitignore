@@ -1,3 +1,4 @@
 code/model_transfer.pt
 *.pt
 code/.ipynb_checkpoints/*
+model_trained_weights/*
