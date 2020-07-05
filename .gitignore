@@ -5,4 +5,3 @@ model_trained_weights/*
 data/test/*
 data/train/*
 data/valid/*
-*
