@@ -1,7 +1,8 @@
-code/model_transfer.pt
 *.pt
-code/.ipynb_checkpoints/*
-model_trained_weights/*
-data/test/*
-data/train/*
-data/valid/*
+code/.ipynb_checkpoints/
+model_trained_weights/
+data/test/
+data/train/
+data/valid/
+C1-P1_Train Dev_fixed/test_split.csv
+C1-P1_Train Dev_fixed/train_split.csv
