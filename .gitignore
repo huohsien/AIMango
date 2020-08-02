@@ -6,3 +6,4 @@ data/train/
 data/valid/
 C1-P1_Train Dev_fixed/test_split.csv
 C1-P1_Train Dev_fixed/train_split.csv
+*.tgz
